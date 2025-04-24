@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I'm Urvang Patel<br><br>Welcome to my github profile. I am a passionate and results-driven developer with experience in building scalable and user-centric applications. I specialize in .NET Core, .NET Framework, MVC, and API development, and have a keen interest in solving complex problems through clean and efficient code.<br><br>🛠️ I enjoy working across the stack, whether it's crafting intuitive frontend experiences or designing robust backend architectures.<br>🚀 I'm continuously learning and exploring new technologies to stay ahead in the ever-evolving world of software development.<br>💬 Collaboration, clean code, and continuous improvement are core to how I work.<br>
+# 👋 Hi, I'm Urvang Patel
+💫 About Me:<br><br>Welcome to my GitHub profile! I am a passionate and results-oriented software developer with hands-on experience in building scalable, efficient, and user-focused applications. My core expertise lies in .NET Core, .NET Framework, ASP.NET MVC, and RESTful API development.<br><br>I take pride in working across the full stack—whether it's developing intuitive front-end interfaces or architecting robust and maintainable back-end systems. I’m deeply committed to writing clean, well-structured code and continuously improving both my technical skills and project outcomes.<br><br>I thrive in collaborative environments, embrace feedback, and am always eager to explore emerging technologies to stay ahead in the fast-paced world of software development.
 
 
 ## 🌐 Socials:
